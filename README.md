@@ -27,6 +27,8 @@ print(x)
 quit()
 ```
 
+To run the interpreter, append either `--console` or `-c` as an argument when launching the executable.
+
 # Compiling
 You'll need the .NET 8.0 runtime to actually *use* the PTL executable, but you can use any .NET SDK from 8.0 onwards to build it.
 1. `git clone https://github.com/The3000Company/ptlang`
