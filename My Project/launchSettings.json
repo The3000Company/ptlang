@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ptlang": {
+      "commandName": "Project",
+      "commandLineArgs": "--console"
+    }
+  }
+}

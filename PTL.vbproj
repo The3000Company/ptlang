@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>PTL</RootNamespace>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="My Project\NewFolder1\" />
+    <Folder Include="My Project\NewFolder2\" />
+    <Folder Include="My Project\NewFolder\" />
+  </ItemGroup>
+
+</Project>

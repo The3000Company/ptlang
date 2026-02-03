@@ -1,0 +1,14 @@
+F:\NotScratch\VisualStudio\ptlang\bin\Debug\net8.0\ptlang.exe
+F:\NotScratch\VisualStudio\ptlang\bin\Debug\net8.0\ptlang.deps.json
+F:\NotScratch\VisualStudio\ptlang\bin\Debug\net8.0\ptlang.runtimeconfig.json
+F:\NotScratch\VisualStudio\ptlang\bin\Debug\net8.0\ptlang.dll
+F:\NotScratch\VisualStudio\ptlang\bin\Debug\net8.0\ptlang.pdb
+F:\NotScratch\VisualStudio\ptlang\obj\Debug\net8.0\ptlang.GeneratedMSBuildEditorConfig.editorconfig
+F:\NotScratch\VisualStudio\ptlang\obj\Debug\net8.0\ptlang.AssemblyInfoInputs.cache
+F:\NotScratch\VisualStudio\ptlang\obj\Debug\net8.0\ptlang.AssemblyInfo.vb
+F:\NotScratch\VisualStudio\ptlang\obj\Debug\net8.0\ptlang.vbproj.CoreCompileInputs.cache
+F:\NotScratch\VisualStudio\ptlang\obj\Debug\net8.0\ptlang.dll
+F:\NotScratch\VisualStudio\ptlang\obj\Debug\net8.0\refint\ptlang.dll
+F:\NotScratch\VisualStudio\ptlang\obj\Debug\net8.0\ptlang.pdb
+F:\NotScratch\VisualStudio\ptlang\obj\Debug\net8.0\ptlang.genruntimeconfig.cache
+F:\NotScratch\VisualStudio\ptlang\obj\Debug\net8.0\ref\ptlang.dll
